@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amal
-- 👀 I’m interested in Cybersecurity, Electronics and Networking
+- 👀 I’m interested in Cybersecurity, Electronics, Networking, financial markets and management
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Cybersecurity
 - 📫 You can message me on Github
