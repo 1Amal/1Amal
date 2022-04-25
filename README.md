@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amal
-- 👀 I’m interested in Cybersecurity, Electronics, Networking, financial markets and management
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on Cybersecurity
+- 👀 I’m interested in Python, Software Development, Cybersecurity, Electronics, Networking, financial markets and management
+- 🌱 I’m currently learning Python and Software Development
+- 💞️ I’m looking to collaborate on Python
 - 📫 You can message me on Github
 
 <!---
