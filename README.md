@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Amal
-- 👀 I’m interested in Front End web development (HTML, CSS, JavaScript), Python, designing and building things !
-- 🌱 I’m currently learning Front End web development
-- 💞️ I’m looking to collaborate on Front End Web development
+- 👀 Aspiring Full-Stack Developer: I'm passionate about software engineering and web development.
+- Front-End Expertise: Currently learning and building with JavaScript, React, HTML, and CSS.
+- Back-End Aspiration: Eager to expand my skillset into Node.js and MongoDB.
+- 💞️ Looking to Collaborate: I'm interested in working on front-end projects to solidify my skills and gain experience.
+
 - 📫 You can message me on Github
+
+Hi, I'm Amal!
+
+Find me on my personal website: https://1amal.github.io
 
 <!---
 1Amal/1Amal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
